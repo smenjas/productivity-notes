@@ -38,3 +38,9 @@ encounter this with Wikipedia links that contain parentheses.  The URL encoding
 for an opening paren is %28, and for a closing paren is %29.  So
 "https://example.com/Contrived_(example)" becomes
 "https://example.com/Contrived_%28example%29".
+
+#### Link Fragments
+Markdown files on GitHub are rendered as HTML.  You can link to headers within
+the page with a hash symbol, followed by the header text in lowercase, with
+special characters removed and spaces turned into hyphens.  So a link fragment
+to a the line "# Table of Contents" is "#table-of-contents".
