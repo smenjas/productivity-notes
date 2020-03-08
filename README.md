@@ -15,8 +15,8 @@ At the end of each day, write a list of things to do the next day.
 
 ## Notes
 Taking notes organizes your thoughts.  Allow yourself to take notes in any and
-of the ways that you want.  Use paper and pencil, pen, paint, watercolor, or
-crayon.  Take notes, rewrite them, throw them away.  Use blackboards,
+all of the ways that you want.  Use paper and pencil, pen, paint, watercolor,
+or crayon.  Take notes, rewrite them, throw them away.  Use blackboards,
 whiteboards, whatever is available to see your thoughts and play with them.
 
 ### Markdown
