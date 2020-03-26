@@ -26,6 +26,7 @@ At the end of each day, write a list of things to do the next day.
   - [Project Management](#project-management)
 - [Communication](#communication)
 - [Computing](#computing)
+  - [Kerbal Space Program](#kerbal-space-program)
 
 ## Take Notes
 Taking notes organizes your thoughts.  Allow yourself to take notes in any and
@@ -100,6 +101,8 @@ for video chat, and [Discord](https://discordapp.com/) for audio & text chat.
 ## Computing
 I mostly use Macs, so I will stick to that.
 
+Use command-space to search for anything, or even as a calculator.
+
 There are many programs you might like to run on a Mac that aren't available in
 the App Store, like [Firefox](https://www.mozilla.org/) or
 [Spectacle](https://www.spectacleapp.com/).  I like to install and update them
@@ -109,3 +112,12 @@ brew cask install firefox
 ```
 You can [script this](https://github.com/smenjas/essentials#setup) and save time
 whenever you have to set up or update your computer.
+
+### Kerbal Space Program
+Everyone needs some downtime.  Learn rocket science while you unwind with
+[Kerbal Space Program](https://www.kerbalspaceprogram.com/).  If you're on a
+Mac running Homebrew, install Steam with:
+```sh
+brew cask install steam
+```
+then play KSP in the Steam app.  Fly safe!
