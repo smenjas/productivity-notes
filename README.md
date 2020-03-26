@@ -25,6 +25,7 @@ At the end of each day, write a list of things to do the next day.
 - [List Tasks](#list-tasks)
   - [Project Management](#project-management)
 - [Communication](#communication)
+- [Computing](#computing)
 
 ## Take Notes
 Taking notes organizes your thoughts.  Allow yourself to take notes in any and
@@ -45,7 +46,7 @@ I like to to use a concise shorthand, like "flow" notes from debate.  If I'm
 taking notes digitally, I use Markdown, but I save links and complex formatting
 for later addition, so I'm mainly taking notes in plain text.
 
-### Long-Term
+### Long-Term Notes
 For long-term storage, I prefer to take notes digitally and store them online
 so I can easily access them.  There are several ways to do this.
 
@@ -95,3 +96,16 @@ Build trust by following up without being asked.
 sharing knowledge with your team.  Video conferencing is also helpful, to avoid
 miscommunication and include remote workers.  I like [Zoom](https://zoom.us/)
 for video chat, and [Discord](https://discordapp.com/) for audio & text chat.
+
+## Computing
+I mostly use Macs, so I will stick to that.
+
+There are many programs you might like to run on a Mac that aren't available in
+the App Store, like [Firefox](https://www.mozilla.org/) or
+[Spectacle](https://www.spectacleapp.com/).  I like to install and update them
+using [Homebrew](https://brew.sh/), a Unix-like package manager.  For example:
+```bash
+brew cask install firefox
+```
+You can [script this](https://github.com/smenjas/essentials#setup) and save time
+whenever you have to set up or update your computer.
