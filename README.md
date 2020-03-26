@@ -15,18 +15,18 @@ At the end of each day, write a list of things to do the next day.
 
 ---
 
-- Notes
-  - Daily Goals
-  - Intermediate Notes
-  - Long-Term
-  - Markdown
-    - URL Encoding
-    - Link Fragments
-- Tasks
-  - Project Management
-- Communication
+- [Take Notes](#take-notes)
+  - [Daily Goals](#daily-goals)
+  - [Intermediate Notes](#intermediate-notes)
+  - [Long-Term Notes](#long-term-notes)
+  - [Markdown](#markdown)
+    - [URL Encoding](#url-encoding)
+    - [Link Fragments](#link-fragments)
+- [List Tasks](#list-tasks)
+  - [Project Management](#project-management)
+- [Communication](#communication)
 
-## Notes
+## Take Notes
 Taking notes organizes your thoughts.  Allow yourself to take notes in any and
 all of the ways that you want.  Use paper and pencil, pen, paint, watercolor,
 or crayon.  Take notes, rewrite them, throw them away.  Use blackboards,
@@ -75,7 +75,7 @@ the page with a hash symbol, followed by the header text in lowercase, with
 special characters removed and spaces turned into hyphens.  So a link fragment
 to a the line "# Table of Contents" is "#table-of-contents".
 
-## Tasks
+## List Tasks
 For anything beyond the simplest of projects, it's useful to write down the
 tasks you need to do.  One option is to use checklists, but those can be hard
 to share with others and often don't provide enough detail or flexibility.
@@ -86,12 +86,12 @@ Project management tools, like [Trello](https://trello.com/) or
 share tasks with a team.
 
 ## Communication
-Email works well.  It's asynchronous, meaning you're not interrupting someone
-just by contacting them.  I find it works best to keep them very short, and
-reply immediately, even if it's just to say "I got your email, thanks."  This
-encourages rapidly iterating through feedback loops, which makes people more
-likely to contact you.
+Email is universal and asynchronous, which means you have control over distractions.
+Reply promptly and briefly.  "I got your email, thanks."  This encourages rapidly
+iterating through feedback loops, which makes people more likely to contact you.
+Build trust by following up without being asked.
 
-[Slack](https://slack.com/) is great for real-time communication, and for sharing knowledge with your
-team.  Video conferencing is also helpful, to avoid miscommunication and include
-remote workers.  I like [Zoom](https://zoom.us/) for video chat.
+[Slack](https://slack.com/) is great for real-time communication, and for
+sharing knowledge with your team.  Video conferencing is also helpful, to avoid
+miscommunication and include remote workers.  I like [Zoom](https://zoom.us/)
+for video chat, and [Discord](https://discordapp.com/) for audio & text chat.
