@@ -13,11 +13,41 @@ most.  Then take a break, stretch, walk around, maybe exercise.
 
 At the end of each day, write a list of things to do the next day.
 
+---
+
+- Notes
+  - Daily Goals
+  - Intermediate Notes
+  - Long-Term
+  - Markdown
+    - URL Encoding
+    - Link Fragments
+- Tasks
+  - Project Management
+- Communication
+
 ## Notes
 Taking notes organizes your thoughts.  Allow yourself to take notes in any and
 all of the ways that you want.  Use paper and pencil, pen, paint, watercolor,
 or crayon.  Take notes, rewrite them, throw them away.  Use blackboards,
 whiteboards, whatever is available to see your thoughts and play with them.
+
+### Daily Goals
+Each day, I like to write a brief list of goals.  No more than 6.  I prefer pen
+and paper for this.  Drawing a line through a completed item, and balling up the
+completed list are cathartic.  I also like to start with one completed item, to
+trick myself into action.
+
+### Intermediate Notes
+For what I call intermediate notes (not for short term use, or long term
+storage, but in between), I use whatever is most convenient.  For paper notes,
+I like to to use a concise shorthand, like "flow" notes from debate.  If I'm
+taking notes digitally, I use Markdown, but I save links and complex formatting
+for later addition, so I'm mainly taking notes in plain text.
+
+### Long-Term
+For long-term storage, I prefer to take notes digitally and store them online
+so I can easily access them.  There are several ways to do this.
 
 ### Markdown
 One way to take notes digitally is with
@@ -44,3 +74,24 @@ Markdown files on GitHub are rendered as HTML.  You can link to headers within
 the page with a hash symbol, followed by the header text in lowercase, with
 special characters removed and spaces turned into hyphens.  So a link fragment
 to a the line "# Table of Contents" is "#table-of-contents".
+
+## Tasks
+For anything beyond the simplest of projects, it's useful to write down the
+tasks you need to do.  One option is to use checklists, but those can be hard
+to share with others and often don't provide enough detail or flexibility.
+
+### Project Management
+Project management tools, like [Trello](https://trello.com/) or
+[Jira](https://www.atlassian.com/software/jira), allow you to document and
+share tasks with a team.
+
+## Communication
+Email works well.  It's asynchronous, meaning you're not interrupting someone
+just by contacting them.  I find it works best to keep them very short, and
+reply immediately, even if it's just to say "I got your email, thanks."  This
+encourages rapidly iterating through feedback loops, which makes people more
+likely to contact you.
+
+[Slack](https://slack.com/) is great for real-time communication, and for sharing knowledge with your
+team.  Video conferencing is also helpful, to avoid miscommunication and include
+remote workers.  I like [Zoom](https://zoom.us/) for video chat.
